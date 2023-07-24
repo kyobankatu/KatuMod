@@ -1,0 +1,15 @@
+{
+    "type": "Conveyor",
+    "name": "Alloy conveyor",
+    "description": "the fastest conveyor",
+    "health": "300",
+    "requirements": [
+        "plastanium/1",
+        "metaglass/1",
+        "surge-alloy/1"
+    ],
+    "category": "distribution",
+    "speed": "0.15",
+    "displayedSpeed": "50",
+    "research": "thorium-conveyor"
+}

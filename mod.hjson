@@ -1,0 +1,8 @@
+{
+    name: "KatuMod"
+    displayName: "KatuMod"
+    author: kyobankatu
+    description: "My first mod in mindustry."
+    version: "1.0"
+    hidden: false
+}
