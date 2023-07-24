@@ -9,7 +9,7 @@
         "surge-alloy/1"
     ],
     "category": "distribution",
-    "speed": 0.25,
-    "displayedSpeed": 30.0,
+    "speed": 0.15,
+    "displayedSpeed": 18.0,
     "research": "armored-conveyor"
 }
