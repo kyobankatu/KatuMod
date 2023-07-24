@@ -3,6 +3,7 @@
     displayName: "KatuMod"
     author: kyobankatu
     description: "My first mod in mindustry."
+    minGameVersion: "136"
     version: "1.0"
     hidden: false
 }
