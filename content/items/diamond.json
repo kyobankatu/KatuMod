@@ -1,0 +1,8 @@
+{
+    "name": "Diamond",
+    "description": "A rare resource.",
+    "hardness": 4,
+    "cost": 12,
+    "color": "b9f2ff",
+    "research": "thorium"
+}

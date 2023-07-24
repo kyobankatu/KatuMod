@@ -1,7 +1,7 @@
 {
     "type": "Conveyor",
     "name": "Alloy conveyor",
-    "description": "the fastest conveyor",
+    "description": "This is the fastest conveyor.",
     "health": "300",
     "requirements": [
         "plastanium/1",
@@ -9,7 +9,7 @@
         "surge-alloy/1"
     ],
     "category": "distribution",
-    "speed": "0.15",
-    "displayedSpeed": "50",
-    "research": "thorium-conveyor"
+    "speed": 0.25,
+    "displayedSpeed": 30.0,
+    "research": "armored-conveyor"
 }
