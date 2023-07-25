@@ -1,0 +1,13 @@
+{
+    "type": "Router",
+    "name": "Titanium rouoter",
+    "description": "a little faster router",
+    "health": "80",
+    "requirements": [
+        "copper/3",
+        "titanium/3"
+    ],
+    "category": "distribution",
+    "speed": 16.0,
+    "research": "router"
+}
