@@ -1,0 +1,15 @@
+{
+    "type": "StackConveyor",
+    "name": "Diamond conveyor",
+    "description": "This is the fastest stack-conveyor.",
+    "health": "600",
+    "requirements": [
+        "plastanium/1",
+        "surge-alloy/1",
+        "diamond/1"
+    ],
+    "category": "distribution",
+    "speed": 0.25,
+    "displayedSpeed": 30.0,
+    "research": "alloy-conveyor"
+}
