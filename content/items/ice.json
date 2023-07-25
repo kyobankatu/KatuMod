@@ -1,0 +1,9 @@
+{
+    "name": "Ice",
+    "description": "Solid water.",
+    "hardness": 1,
+    "cost": 1,
+    "color": "b9f2ff",
+    "research": "titanium",
+    "buildable": false
+}

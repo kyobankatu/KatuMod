@@ -1,0 +1,36 @@
+{
+    "type": "GenericCrafter",
+    "name": "Ice Generator",
+    "description": "Generate ice from cryofluid.",
+
+    "size": 1,
+    "itemCapacity": 100,
+    "liquidCapacity": 100,
+    "hasPower": true,
+    "hasItems": true,
+    "hasLiquids": true,
+    "craftTime": 20,
+    "updateEffect": "freezing",
+
+    "outputItem": {
+        "item": "ice",
+        "amount": 1
+    },
+
+    "consumes": {
+        "power": 0.5,
+
+        "liquid": {
+            "liquid": "cryofluid",
+            "amount": 1
+        }
+    },
+
+    "requirements": [
+        "titanium/20",
+        "silicon/20",
+        "lead/25"
+    ],
+    "category": "crafting",
+    "research": "cryofluid-generator"
+}
