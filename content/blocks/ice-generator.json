@@ -9,16 +9,16 @@
     "hasPower": true,
     "hasItems": true,
     "hasLiquids": true,
-    "craftTime": 20,
+    "craftTime": 60,
     "updateEffect": "freezing",
 
     "outputItem": {
         "item": "ice",
-        "amount": 1
+        "amount": 2.5
     },
 
     "consumes": {
-        "power": 1.5,
+        "power": 1,
 
         "liquid": {
             "liquid": "cryofluid",
