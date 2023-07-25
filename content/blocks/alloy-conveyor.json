@@ -1,5 +1,5 @@
 {
-    "type": "Conveyor",
+    "type": "StackConveyor",
     "name": "Alloy conveyor",
     "description": "This is the fastest conveyor.",
     "health": "300",
