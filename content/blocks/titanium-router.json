@@ -9,5 +9,6 @@
     ],
     "category": "distribution",
     "speed": 4.0,
+    "buildCostMultiplier": 0.5,
     "research": "router"
 }
