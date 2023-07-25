@@ -4,8 +4,8 @@
     "description": "Generate cryofluid from ice.",
 
     "size": 1,
-    "itemCapacity": 100,
-    "liquidCapacity": 100,
+    "itemCapacity": 10,
+    "liquidCapacity": 10,
     "hasPower": true,
     "hasItems": true,
     "hasLiquids": true,
@@ -14,11 +14,11 @@
 
     "outputLiquid": {
         "liquid": "cryofluid",
-        "amount": 40
+        "amount": 10
     },
 
     "consumes": {
-        "power": 0.5,
+        "power": 1.5,
 
         "items": {
             "items":[
